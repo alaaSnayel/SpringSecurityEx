@@ -1,4 +1,4 @@
-package com.alaa.SpringSecurityEx;
+package com.alaa.SpringSecurityEx.model;
 
 public class Student {
   private int id;

@@ -1,4 +1,4 @@
-package com.alaa.SpringSecurityEx;
+package com.alaa.SpringSecurityEx.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
